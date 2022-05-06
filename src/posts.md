@@ -1,9 +1,9 @@
 ---
 layout: posts.njk
 metaTitle: Writings
-metaDescription: Thoughts & things happened in my life.
+metaDescription: Info for real estate professionals and enthusiasts.
 title: Writings
-description: Thoughts & things happened in my life.
+description: Info for real estate professionals and enthusiasts.
 templateEngineOverride: njk,md
 eleventyNavigation:
   key: writings.

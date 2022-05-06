@@ -1,6 +1,6 @@
 {
-	"name": "kailoon's personal site & portfolio",
-	"short_name": "kailoon",
+	"name": "NEKTARGO - Real estate listing email alerts and newsletter. You choose, we serve relevant data.",
+	"short_name": "NEKTARGO",
 	"icons": [
 		{
 			"src": "./img/android-chrome-192x192.png",
@@ -16,5 +16,5 @@
 	"theme_color": "#ffffff",
 	"background_color": "#ffffff",
 	"display": "standalone",
-	"start_url": "https://kailoon.com"
+	"start_url": "https://nektargo.com"
 }

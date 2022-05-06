@@ -1,8 +1,8 @@
 ---
 layout: single.njk
-metaTitle: About kailoon
+metaTitle: About NEKTARGO
 metaDescription: Know more about me.
-title: Hi, I'm kailoon.
+title: Hi, We are NEKTARGO.
 description: I am a freelance front-end designer & developer based in Malaysia.
 featuredImg:
 templateEngineOverride: njk,md

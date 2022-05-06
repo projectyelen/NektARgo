@@ -1,8 +1,8 @@
 ---
 layout: index.njk
-metaTitle: kailoon - Freelance Front-End Web UI/UX Developer from Malaysia
-metaDescription: Design that code.
-title: 'Design for successful digital products and websites.'
-description: With a strong focus on responsive design, performance & accessibility.
+metaTitle: NEKTARGO - Real estate listing email alerts and newsletter. You choose, we serve relevant data.
+metaDescription: Gather all listings.
+title: 'New way to view real estate listings.'
+description: With a strong focus on your needs & wants.
 templateEngineOverride: njk,md
 ---

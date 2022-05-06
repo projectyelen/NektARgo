@@ -3,10 +3,10 @@
 	"version": "1.0.0",
 	"description": "Minimal Poftfolio / blog template built with eleventy & tailwindcss.",
 	"scripts": {
-		"serve": "ELEVENTY_ENV=dev npx eleventy --serve",
+		"serve": "cross-env ELEVENTY_ENV=development npx eleventy --serve",
 		"start": "npm run serve",
-		"build": "ELEVENTY_ENV=dev npx eleventy",
-		"build:prod": "ELEVENTY_ENV=prod npx eleventy"
+		"build": "cross-env ELEVENTY_ENV=development npx eleventy",
+		"build:prod": "cross-env ELEVENTY_ENV=production npx eleventy"
 	},
 	"keywords": [
 		"11ty",
@@ -22,6 +22,7 @@
 		"@11ty/eleventy-plugin-rss": "^1.1.2",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0",
 		"autoprefixer": "^10.4.2",
+		"cross-env": "^7.0.3",
 		"luxon": "^2.3.0",
 		"markdown-it": "^12.3.2",
 		"markdown-it-anchor": "^8.4.1",
